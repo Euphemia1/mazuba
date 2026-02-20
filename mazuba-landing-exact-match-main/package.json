@@ -1,0 +1,13 @@
+{
+  "name": "mazuba-envirotech",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build:css": "npx tailwindcss -i ./src/input.css -o ./public/assets/css/style.css --minify",
+    "watch:css": "npx tailwindcss -i ./src/input.css -o ./public/assets/css/style.css --watch",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./public/assets/css/style.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}

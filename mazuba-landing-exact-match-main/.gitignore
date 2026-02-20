@@ -1,0 +1,33 @@
+# Dependencies
+node_modules
+vendor
+
+# Environment
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build output
+dist
+dist-ssr
+
+# Database
+*.db
+database/
+data/
+schema.sql
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.local
