@@ -18,3 +18,5 @@ RewriteRule ^(.*)$ index.php [L]
 <FilesMatch "\.(env|sql|md)$">
     Require all denied
 </FilesMatch>
+
+

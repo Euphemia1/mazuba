@@ -70,7 +70,7 @@
             href="/extendedProducts.php"
             class="inline-block px-8 py-4 bg-accent text-accent-foreground font-semibold rounded-full hover:opacity-90 transition-all duration-300 shadow-lg hover:shadow-xl"
           >
-            See More;
+            See More
           </a>
         </div>
       </div>

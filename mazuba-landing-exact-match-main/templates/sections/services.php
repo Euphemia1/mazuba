@@ -75,7 +75,7 @@
             </div>
             <div class="p-6">
               <h3 class="text-xl font-bold text-primary mb-3">
-                Our Locat<span class="text-accent">ion</span> <span class="italic font-normal text-secondary">store in</span>
+                Our Location <span class="italic font-normal text-secondary">store in</span>
               </h3>
               <p class="text-secondary mb-4">
                 HardWork Shopping Complex | <span class="font-semibold text-secondary">Shop No. 8</span> &ndash; 1 Corner Of 1th Street &amp; Fern Avenue. Chingola, Copperbelt, Zambia

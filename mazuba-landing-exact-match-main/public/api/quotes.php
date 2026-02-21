@@ -20,7 +20,7 @@ $method = $_SERVER['REQUEST_METHOD'];
 
 // Get ID from query string for GET/PUT/DELETE single record
 $id = isset($_GET['id']) ? (int)$_GET['id'] : null;
-
+ echo '$chaeck';
 try {
     switch ($method) {
         case 'GET':
