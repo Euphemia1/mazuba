@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
     exit;
 }
 
-require_once __DIR__ . '/../../includes/models/Quote.php';
+require_once __DIR__ . '/../../includes/models/extendedProducts.php';
 
 $method = $_SERVER['REQUEST_METHOD'];
 
