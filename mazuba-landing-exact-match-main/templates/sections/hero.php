@@ -1,7 +1,7 @@
     <!-- Hero Section -->
     <section id="home" class="relative min-h-[85vh] md:min-h-screen w-full overflow-hidden pb-10 md:pb-0">
       <!-- Background Image -->
-      <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat" style="background-image: url('/assets/images/hero-solar-equipment.jpg')"></div>
+      <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat" style="background-image: url('assets/images/hero-solar-equipment.jpg')"></div>
 
       <!-- Gradient overlay -->
       <div class="absolute inset-0 bg-gradient-to-b from-secondary/80 via-secondary/40 to-secondary-dark/90"></div>

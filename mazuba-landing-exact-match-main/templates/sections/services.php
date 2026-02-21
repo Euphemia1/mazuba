@@ -45,7 +45,7 @@
           <div class="bg-background rounded-xl overflow-hidden shadow-lg border border-border animate-fade-in">
             <div class="aspect-[4/3] overflow-hidden">
               <img
-                src="/assets/images/solar-technician.png"
+                src="assets/images/solar-technician.png"
                 alt="Solar technician installing panels"
                 class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               >
@@ -65,7 +65,7 @@
           <div class="bg-background rounded-xl overflow-hidden shadow-lg border border-border animate-fade-in" style="animation-delay: 0.2s">
             <div class="aspect-[4/3] overflow-hidden relative">
               <img
-                src="/assets/images/shop-mockup.jpg"
+                src="assets/images/shop-mockup.jpg"
                 alt="Mazuba Solar Store"
                 class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               >

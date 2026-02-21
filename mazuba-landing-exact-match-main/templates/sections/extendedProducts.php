@@ -2,7 +2,7 @@
 // 1. DATA SIMULATION (Replacing imports from @/data/products)
 // In a real app, these might come from a database.
 
-$imgBase = '/assets/images/products/individual-images/';
+$imgBase = 'assets/images/products/individual-images/';
 
 $singleProducts = [
     [
@@ -16,21 +16,21 @@ $singleProducts = [
         'id' => 'p2',
         'name' => '6kVA Inverter Must',
         'price' => 7500.00,
-        'image' => '/assets/images/inverter.jpg',
+        'image' => 'assets/images/inverter.jpg',
         'specs' => ['6kVA', 'Must']
     ],
     [
         'id' => 'p3',
         'name' => '4kVA Inverter Felicity',
         'price' => 6500.00,
-        'image' => '/assets/images/inverter.jpg',
+        'image' => 'assets/images/inverter.jpg',
         'specs' => ['4kVA', 'Felicity']
     ],
     [
         'id' => 'p4',
         'name' => '3kVA Hybrid Inverter Felicity',
         'price' => 6000.00,
-        'image' => '/assets/images/inverter.jpg',
+        'image' => 'assets/images/inverter.jpg',
         'specs' => ['3kVA', 'Hybrid', 'Felicity']
     ],
     [
@@ -51,35 +51,35 @@ $singleProducts = [
         'id' => 'p7',
         'name' => '10kVA Inverter Hanchu',
         'price' => 19500.00,
-        'image' => '/assets/images/inverter.jpg',
+        'image' => 'assets/images/inverter.jpg',
         'specs' => ['10kVA', 'Hanchu']
     ],
     [
         'id' => 'p8',
         'name' => 'Hanchu 2.56kWh 24V Lithium Battery',
         'price' => 9750.00,
-        'image' => '/assets/images/battery-storage.jpg',
+        'image' => 'assets/images/battery-storage.jpg',
         'specs' => ['2.56kWh', '24V', 'Lithium']
     ],
     [
         'id' => 'p9',
         'name' => '5kWh Felicity Lithium Battery 100Ah 51.2V',
         'price' => 15500.00,
-        'image' => '/assets/images/battery-storage.jpg',
+        'image' => 'assets/images/battery-storage.jpg',
         'specs' => ['5kWh', '100Ah', '51.2V']
     ],
     [
         'id' => 'p10',
         'name' => '24V 100Ah Felicity Lithium Battery',
         'price' => 11000.00,
-        'image' => '/assets/images/battery-storage.jpg',
+        'image' => 'assets/images/battery-storage.jpg',
         'specs' => ['24V', '100Ah', 'Lithium']
     ],
     [
         'id' => 'p11',
         'name' => '1.5kVA Fivestar Inverter',
         'price' => 5000.00,
-        'image' => '/assets/images/inverter.jpg',
+        'image' => 'assets/images/inverter.jpg',
         'specs' => ['1.5kVA', 'Fivestar']
     ],
     [
@@ -91,7 +91,7 @@ $singleProducts = [
     ]
 ];
 
-$comboBase = '/assets/images/products/combo-images/';
+$comboBase = 'assets/images/products/combo-images/';
 
 $packageProducts = [
     [

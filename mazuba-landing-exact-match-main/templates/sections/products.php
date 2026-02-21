@@ -16,28 +16,28 @@
           <?php
           $products = [
             [
-              'image' => '/assets/images/solar-panels-field.jpg',
+              'image' => 'assets/images/solar-panels-field.jpg',
               'title' => 'Solar System Design',
               'description' => 'High-efficiency solar panels for residential, commercial, and industrial use.',
               'price' => 45000,
               'unit' => 'per system',
             ],
             [
-              'image' => '/assets/images/inverter.jpg',
+              'image' => 'assets/images/inverter.jpg',
               'title' => 'Inverters',
               'description' => 'Advanced inverters for efficient energy conversion.',
               'price' => 18500,
               'unit' => 'per unit',
             ],
             [
-              'image' => '/assets/images/battery-storage.jpg',
+              'image' => 'assets/images/battery-storage.jpg',
               'title' => 'Battery Storage Solutions',
               'description' => 'Reliable supply of solar components and systems.',
               'price' => 25000,
               'unit' => 'per battery',
             ],
             [
-              'image' => '/assets/images/mounting-rails.jpg',
+              'image' => 'assets/images/mounting-rails.jpg',
               'title' => 'Mounting Rails & Accessories',
               'description' => 'Durable, easy to install mounting solutions, and installation kits.',
               'price' => 8500,
